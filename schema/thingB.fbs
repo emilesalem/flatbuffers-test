@@ -1,0 +1,5 @@
+namespace test.flatbuffers.internal.fb.b;
+
+table B {
+    field_1: string;
+}

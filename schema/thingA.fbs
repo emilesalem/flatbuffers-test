@@ -1,0 +1,8 @@
+include "thingB.fbs";
+
+namespace test.flatbuffers.internal.fb.a;
+
+table A {
+    field_one: string;
+    field_two: b.B;
+}
