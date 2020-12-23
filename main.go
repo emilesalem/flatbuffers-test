@@ -1,9 +1,9 @@
 package main
 
 import (
-	"emile/test/flatbuffers/internal/fb/a"
-	"emile/test/flatbuffers/internal/fb/b"
 	"fmt"
+	"test/flatbuffers/internal/fb/a"
+	"test/flatbuffers/internal/fb/b"
 
 	flatbuffers "github.com/google/flatbuffers/go"
 )
